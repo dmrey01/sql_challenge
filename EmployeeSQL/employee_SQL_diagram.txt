@@ -1,0 +1,22 @@
+Free Diagram Documentation
+Link to schema: https://app.quickdatabasediagrams.com/#/d/4VZUiI
+
+departments
+FieldDescriptionTypeDefaultOtherdept_noVARCHARFKdept_nameVARCHARdept_emp
+FieldDescriptionTypeDefaultOtheremp_nointPK, FKdept_noVARCHARFKdept_manager
+FieldDescriptionTypeDefaultOtherdept_noVARCHARFKemp_nointPK, FKEmployees
+FieldDescriptionTypeDefaultOtheremp_nointPKemp_title_idVARCHARFKbirth_datadatefirst_nameVARCHARlast_nameVARCHARsexVARCHARhire-datedatesalaries
+FieldDescriptionTypeDefaultOtheremp_nointPK, FKsalaryinttitles
+FieldDescriptionTypeDefaultOthertitle_idVARCHARFKtitleVARCHAR
+QuickDBD
+www.quickdatabasediagrams.com
+
+QuickDBD
+www.quickdatabasediagrams.com
+
+QuickDBD-Free Diagram
+Page < Please update this field. > of < Please update this field. >
+
+QuickDBD-Free Diagram
+Page < Please update this field. > of < Please update this field. >
+
